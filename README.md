@@ -1,19 +1,24 @@
 # PlantLeafDiseaseDetectionSystemUsingAIalgorithms
 A Plant Leaf Disease Detection System Using AI Algorithms is a technology-driven approach that employs artificial intelligence to identify and diagnose diseases in plant leaves.
 This will involves in several steps :
-  1.Data Collection : Image Collection: Gather images of plant leaves with and without diseases. This can be done through public datasets or by collecting your own images.
-                      Labeling: Annotate the images with the correct disease labels. This can be done manually or using expert knowledge.            
-  2.Data Preprocessing : Image Augmentation: Apply transformations like rotation, scaling, flipping, and cropping to increase the diversity of the training dataset.
-                         Normalization: Normalize pixel values to ensure consistent data input for the model.
-                         Resizing: Resize images to a consistent size suitable for the neural network input.
-  3.Model Selection and Training : Model Selection: Choose a suitable neural network architecture. Common choices include Convolutional Neural Networks (CNNs) like ResNet, Inception, or MobileNet.
-                                   Training: Split the dataset into training, validation, and test sets. Train the model using the training set and validate it using the validation set.
-                                   Hyperparameter Tuning: Optimize hyperparameters such as learning rate, batch size, and number of epochs to improve model performance.
-  4.Model Evaluation : Performance Metrics: Evaluate the model using metrics such as accuracy, precision, recall, F1 score, and confusion matrix.
-                       Cross-validation: Perform k-fold cross-validation to ensure the model's robustness.
-  5.Deployment : Integration: Integrate the trained model into a web or mobile application.
-                 Real-time Prediction: Set up a system to capture and preprocess new images for real-time disease detection.
-                 Monitoring and Updating: Continuously monitor the model's performance and update it with new data to maintain accuracy.
+  # Data Collection : 
+                      Image Collection - Gather images of plant leaves with and without diseases. This can be done through public datasets or by collecting your own images.
+                      Labeling - Annotate the images with the correct disease labels. This can be done manually or using expert knowledge.            
+  # Data Preprocessing : 
+                         Image Augmentation - Apply transformations like rotation, scaling, flipping, and cropping to increase the diversity of the training dataset.
+                         Normalization - Normalize pixel values to ensure consistent data input for the model.
+                         Resizing - Resize images to a consistent size suitable for the neural network input.
+  # Model Selection and Training : 
+                                   Model Selection - Choose a suitable neural network architecture. Common choices include Convolutional Neural Networks (CNNs) like ResNet, Inception, or MobileNet.
+                                   Training - Split the dataset into training, validation, and test sets. Train the model using the training set and validate it using the validation set.
+                                   Hyperparameter Tuning - Optimize hyperparameters such as learning rate, batch size, and number of epochs to improve model performance.
+  # Model Evaluation : 
+                       Performance Metrics - Evaluate the model using metrics such as accuracy, precision, recall, F1 score, and confusion matrix.
+                       Cross-validation - Perform k-fold cross-validation to ensure the model's robustness.
+  # Deployment : 
+                 Integration - Integrate the trained model into a web or mobile application.
+                 Real-time Prediction - Set up a system to capture and preprocess new images for real-time disease detection.
+                 Monitoring and Updating - Continuously monitor the model's performance and update it with new data to maintain accuracy.
 
 # Key AI Algorithms and Techniques
 Convolutional Neural Networks (CNNs): These are particularly effective for image recognition tasks due to their ability to automatically and adaptively learn spatial hierarchies of features.
