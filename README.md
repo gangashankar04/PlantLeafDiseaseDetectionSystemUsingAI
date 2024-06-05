@@ -19,6 +19,8 @@ This will involves in several steps :
                  Integration - Integrate the trained model into a web or mobile application.
                  Real-time Prediction - Set up a system to capture and preprocess new images for real-time disease detection.
                  Monitoring and Updating - Continuously monitor the model's performance and update it with new data to maintain accuracy.
+# Figure        
+ ![OverallStepsFigure](https://github.com/gangashankar04/PlantLeafDiseaseDetectionSystemUsingAI/assets/170317051/e2e505ca-eb95-438c-815b-3a3eff2dcee2)
 
 # Key AI Algorithms and Techniques
 Convolutional Neural Networks (CNNs): These are particularly effective for image recognition tasks due to their ability to automatically and adaptively learn spatial hierarchies of features.
