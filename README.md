@@ -23,24 +23,24 @@ This will involves in several steps :
  ![OverallStepsFigure](https://github.com/gangashankar04/PlantLeafDiseaseDetectionSystemUsingAI/assets/170317051/e2e505ca-eb95-438c-815b-3a3eff2dcee2)
 
 # Key AI Algorithms and Techniques
-Convolutional Neural Networks (CNNs): These are particularly effective for image recognition tasks due to their ability to automatically and adaptively learn spatial hierarchies of features.
-Support Vector Machines (SVM): Used for classification tasks, though less common than CNNs for image-based applications.
-K-Nearest Neighbors (KNN): Can be used for simple classification tasks.
+Convolutional Neural Networks (CNN) - These are particularly effective for image recognition tasks due to their ability to automatically and adaptively learn spatial hierarchies of features.
+Support Vector Machines (SVM) - Used for classification tasks, though less common than CNNs for image-based applications.
+K-Nearest Neighbors (KNN) - Can be used for simple classification tasks.
 
 # Advantages
-Accuracy: AI systems can achieve high accuracy in detecting and diagnosing plant diseases, often surpassing human capabilities.
-Efficiency: Rapid processing allows for real-time detection and diagnosis, enabling timely intervention.
-Scalability: Can be scaled to monitor large agricultural fields using drones or satellite imagery.
+Accuracy - AI systems can achieve high accuracy in detecting and diagnosing plant diseases, often surpassing human capabilities.
+Efficiency - Rapid processing allows for real-time detection and diagnosis, enabling timely intervention.
+Scalability - Can be scaled to monitor large agricultural fields using drones or satellite imagery.
 
 # Challenges
-Data Quality: Requires a large, diverse, and well-labeled dataset for training.
-Complexity of Diseases: Some diseases might have similar visual symptoms, making accurate detection challenging.
-Generalization: The model must generalize well to new, unseen data and varying environmental conditions.
+Data Quality - Requires a large, diverse, and well-labeled dataset for training.
+Complexity of Diseases - Some diseases might have similar visual symptoms, making accurate detection challenging.
+Generalization - The model must generalize well to new, unseen data and varying environmental conditions.
 
 # Applications
-Precision Agriculture: Helps farmers monitor crop health and manage diseases more effectively.
-Research: Assists researchers in studying plant diseases and developing new treatments.
-Mobile Apps: Provides farmers with accessible tools to diagnose plant diseases using their smartphones.
+Precision Agriculture - Helps farmers monitor crop health and manage diseases more effectively.
+Research - Assists researchers in studying plant diseases and developing new treatments.
+Mobile Apps - Provides farmers with accessible tools to diagnose plant diseases using their smartphones.
 
 AI-based plant leaf disease detection systems offer a powerful tool for enhancing agricultural productivity and sustainability by enabling early and accurate detection of plant diseases.
 
